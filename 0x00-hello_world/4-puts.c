@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * puts- Used to print output string to screen
- * main: entry point
- * return: always 0 (success)
+ * main - Entry point
+ * Description: 'Used to print output string to screen'
+ * Return: Always 0 (Success)
 */
 int main(void)
 {
